@@ -1,0 +1,19 @@
+.title{
+    text-align: center;
+    font-size: 50px;
+}
+
+.table{
+    width:100%;
+    background-color: darkcyan;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table th {
+    text-align: left;
+}
+
+.table td {
+    border: 1px solid #000 ;
+}

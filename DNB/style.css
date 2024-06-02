@@ -1,0 +1,33 @@
+.titr{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 55px;
+
+}
+
+.table{
+    width: 100%;
+    line-height: 50px;
+    border-collapse: collapse;
+    background-color: rgba(255, 154, 2, 0.932);
+}
+
+.num{
+    text-align: left;
+}
+
+.img{
+    line-height: 25px;
+    width: 100%;
+    border-collapse: collapse;
+}
+.text{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.move{
+    width: 100%;
+    line-height: 50px;
+    border-collapse: collapse;
+}
